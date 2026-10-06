@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791293527|5657327';
+const CACHE_VERSION = '1791295263|14345007';
 /** @type {string} */
 const CACHE_PREFIX = 'MexaBoy-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
