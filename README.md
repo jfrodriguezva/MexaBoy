@@ -1,6 +1,6 @@
 # MexaBoy
 
-Plataformas estilo Mario + Mega Man: 8 jefes por elemento. Para jugar: https://jfrodriguezva.github.io/MexaBoy/
+Plataformas y acción estilo Mega Man en Tenochtitlan: 8 guardianes de piedra por elemento. Para jugar: https://jfrodriguezva.github.io/MexaBoy/
 
 Este repositorio contiene únicamente la versión publicada (compilada) del
 juego. El código fuente es privado.
